@@ -20,41 +20,41 @@
   "sales": [
     {
       "paymentId": "FFN43ky",
-      "userId": 1,
+      "clientId": 1,
       "value": 30,
       "date": "2021-11-23",
       "id": "KOb1GXo"
     },
     {
       "paymentId": "2",
-      "userId": 2,
+      "clientId": 2,
       "value": 25,
       "date": "2021-11-15",
       "id": "Soc-mwY"
     },
     {
       "value": 14,
-      "userId": 3,
+      "clientId": 3,
       "date": "2021-11-08",
       "paymentId": "1",
       "id": "U8imTi5"
     },
     {
       "value": 45,
-      "userId": 4,
+      "clientId": 4,
       "paymentId": "VrUYMlc",
       "date": "2021-10-20",
       "id": "4xmXJLY"
     },
     {
       "value": 16,
-      "userId": 5,
+      "clientId": 5,
       "date": "2021-10-04",
       "paymentId": "2",
       "id": "mrgPpiY"
     }
   ],
-  "users": [
+  "client": [
     {
       "id": 1,
       "name": "Leanne Graham",
