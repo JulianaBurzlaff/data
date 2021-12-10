@@ -2,18 +2,18 @@
   "payment": [
     {
       "id": "1",
-      "type": "Dinheiro"
+      "type": "Money"
     },
     {
       "id": "2",
-      "type": "Cartão de débito"
+      "type": "Debit card"
     },
     {
-      "type": "Cartão de crédito",
+      "type": "Credit card",
       "id": "VrUYMlc"
     },
     {
-      "type": "Pix",
+      "type": "PayPal",
       "id": "FFN43ky"
     }
   ],
